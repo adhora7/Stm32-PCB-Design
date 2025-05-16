@@ -50,11 +50,7 @@ This repository contains the complete KiCad project files, Gerber files, and doc
 
 ---
 
-## License
 
-[Specify your license here, e.g., MIT License]
-
----
 
 ## Contact
 
