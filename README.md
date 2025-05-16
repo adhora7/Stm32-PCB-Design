@@ -53,7 +53,7 @@ This repository contains the complete KiCad project files, Gerber files, and doc
 
 ## Contact
 
-For questions or collaboration, please reach out at [your email or contact info].
+For questions or collaboration, please reach out at fariaanowara82@gmail.com
 
 ---
 
