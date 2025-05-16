@@ -36,8 +36,7 @@ This repository contains the complete KiCad project files, Gerber files, and doc
 1. Open the schematic (`schematic.sch`) and PCB layout (`pcb.kicad_pcb`) files in KiCad.
 2. Review the design, and if needed, modify according to your project requirements.
 3. Use the Gerber files in the `Gerber_Files` folder to send to a PCB manufacturer.
-4. Refer to the BOM for sourcing components.
-5. Use the 3D models for visual verification and mechanical fitting.
+4. Use the 3D models for visual verification and mechanical fitting.
 
 ---
 
@@ -60,7 +59,7 @@ For questions or collaboration, please reach out at [your email or contact info]
 
 ## Screenshots / Images
 
-![PCB Layout](3D_Models/board_3d.png)
+![PCB Layout](3D_Models/3D_Model.jpg)
 
 ---
 
