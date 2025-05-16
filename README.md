@@ -61,6 +61,7 @@ For questions or collaboration, please reach out at fariaanowara82@gmail.com
 
 ![PCB Layout](3D_Models/3D_Model.jpg)
 
+*3D rendering of the STM32 PCB showing component placement and routing on the two-layer board.*
 ---
 
 *This project is ideal for embedded system developers who want a ready-to-use STM32 PCB design with USB interface and basic power management.*
